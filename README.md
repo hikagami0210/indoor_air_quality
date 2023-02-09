@@ -1,16 +1,6 @@
 # indoor_air_quality
+## Co2モニター
 
-A new Flutter project.
+Co2センサー、温湿度センサーを用いて値をFirebaseに保存し、Flutterで開発した専用のアプリに表示させるプロジェクト
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/96739134/217736158-5e495932-9991-4288-ad44-4af26ea34b90.mp4
