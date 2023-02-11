@@ -52,12 +52,5 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAlGV5-voySjnac6IBB4fkp1pp-T6oujCs',
-    appId: '1:762382477464:android:f9dea8585ab8d1e37c88ed',
-    messagingSenderId: '762382477464',
-    projectId: 'air-composition',
-    databaseURL: 'https://air-composition-default-rtdb.firebaseio.com',
-    storageBucket: 'air-composition.appspot.com',
-  );
+  
 }
